@@ -16,6 +16,7 @@ class TraductorSQLVisitor(ConsultaSQLVisitor):
             comp = ctx.condicion().comparador().getText()  # Comparador en texto (ej. MAYOR A)
             valor = ctx.condicion().valor().getText()  # Valor a comparar, ej: 1000
 
+
             # Diccionario que traduce del español al operador SQL
             operador = {
                 'MAYOR A': '>',
