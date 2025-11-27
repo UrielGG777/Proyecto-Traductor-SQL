@@ -24,10 +24,10 @@ Universidad Autónoma de Tamaulipas
 
 ## Instrucciónes de Compilación y Ejecución
 
--- **Ejecuta pip install antlr4-python3-runtime en la terminal**
--- **Ejecuta java -jar [ARCHIVO_ANTLR].jar -Dlanguage=Python3 ConsultaSQL.g4 -visitor para crear los analizadores**
--- **Inicia la interfaz gráfica con el comando python interfaz.py**
+- **Ejecuta pip install antlr4-python3-runtime en la terminal**
+- **Ejecuta java -jar [ARCHIVO_ANTLR].jar -Dlanguage=Python3 ConsultaSQL.g4 -visitor para crear los analizadores**
+   **Inicia la interfaz gráfica con el comando python interfaz.py**
 
 ## Ejemplos de uso
-- **CONTAR PRODUCTOS**   
+- **Ejemplo: CONTAR PRODUCTOS**   
 - **ESE EJEMPLO DE EJECUCIÓN EN LENGAUJE NATURAL, EN EL TRADCUTOR TE MOSTRARÁ LA SENTENCIA SQL DONDEN EL RESULTADO SERIA "SELECT COUNT(*) FROM PRODUCTOS**
