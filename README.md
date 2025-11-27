@@ -6,7 +6,7 @@ Universidad Autónoma de Tamaulipas
 
 **Programación de Sistemas de Base II**
 
-**Profesor: Muñoz Quinteros Dante**
+**Profesor: Muñoz Quintero Dante**
 
 *Noveno semestre, año 2025* 
 ---
