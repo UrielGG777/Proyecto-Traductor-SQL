@@ -26,7 +26,7 @@ Universidad Autónoma de Tamaulipas
 
 - **Ejecuta pip install antlr4-python3-runtime en la terminal**
 - **Ejecuta java -jar [ARCHIVO_ANTLR].jar -Dlanguage=Python3 ConsultaSQL.g4 -visitor para crear los analizadores**
-   **Inicia la interfaz gráfica con el comando python interfaz.py**
+-  **Inicia la interfaz gráfica con el comando python interfaz.py**
 
 ## Ejemplos de uso
 - **Ejemplo: CONTAR PRODUCTOS**   
