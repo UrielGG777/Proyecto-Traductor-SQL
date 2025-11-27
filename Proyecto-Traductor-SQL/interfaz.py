@@ -4,7 +4,7 @@ from main import traducir  # Importa la función traducir del archivo main.py
 
 def procesar():
     consulta = entry.get().upper()  # Tomar la entrada y convertir a mayúsculas
-    if consulta:
+    if consulta: 
         try:
             consulta_sql = traducir(consulta)
             actualizar_resultado(consulta_sql)  # Actualizar el texto en result_text
